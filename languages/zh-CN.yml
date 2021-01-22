@@ -46,6 +46,8 @@ donate:
     paypal: 'Paypal'
     patreon: 'Patreon'
     buymeacoffee: '送我杯咖啡'
+    bitcoin: 'Bitcoin'
+    ethereum: 'Ethereum'
 plugin:
     backtotop: '回到顶端'
     visit_count: '%s次访问'
